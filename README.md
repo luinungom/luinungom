@@ -3,7 +3,7 @@
 ## I'm a QA Tester/automation, junior Java programmer, biologist and biotechnologist
 <img src="https://raw.githubusercontent.com/luinungom/luinungom/master/Selenium.png" align="right" height="200" />
 
-- :robot: I'm currently working as QA automation tester 
+- :robot: I'm currently working as QA automation tester (❤️Selenium)
 - :coffee: I’m a certified OCA Java Programmer
 - :man_technologist: Trying to create my first application, a DNA restriction sites analysis tool
 - :snake: I would like to learn Python and JavaScript in a near future
@@ -15,8 +15,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br></br>
 ### 🛠 Languages and Tools:
-
-
 <img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
 <img align="left" alt="Selenium" width="26px" src="https://avatars0.githubusercontent.com/u/983927?s=200&v=4" /> 
 <img align="left" alt="Maven" width="26px" src="https://benjagarrido.com/wp-content/uploads/2015/08/apache_maven.png" /> 
