@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/luinungom/luinungom/889897fa1f5124c41126adaa218f10aab979d6c3/linkedin.svg"/>][linkedin]
 <br></br>
 ### 🛠 Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
