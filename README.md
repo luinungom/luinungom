@@ -1,4 +1,4 @@
-### Hi there, I'm Luis Núñez :wave:
+### Hi there, I'm Luis Núñez <img alt="wave" width="26px" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif"/>
 
 ## I'm a QA Tester/automation, junior Java programmer, biologist and biotechnologist
 - :robot: I'm currently working as QA automation tester 
@@ -14,7 +14,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🛠 Languages and Tools:
 
 
 <img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
