@@ -1,6 +1,8 @@
 ### Hi there, I'm Luis Núñez <img alt="wave" width="26px" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif"/>
 
 ## I'm a QA Tester/automation, junior Java programmer, biologist and biotechnologist
+<img src="https://raw.githubusercontent.com/luinungom/luinungom/master/Selenium.png" align="right" height="250" />
+
 - :robot: I'm currently working as QA automation tester 
 - :coffee: I’m a certified OCA Java Programmer
 - :man_technologist: Trying to create my first application, a DNA restriction sites analysis tool
