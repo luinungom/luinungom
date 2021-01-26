@@ -12,17 +12,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/luinungom/luinungom/889897fa1f5124c41126adaa218f10aab979d6c3/linkedin.svg"/>][linkedin]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 <br></br>
 ### 🛠 Languages and Tools:
-<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java.svg" />
-<img align="left" alt="Selenium" width="26px" src="https://avatars0.githubusercontent.com/u/983927?s=200&v=4" /> 
-<img align="left" alt="Maven" width="26px" src="https://benjagarrido.com/wp-content/uploads/2015/08/apache_maven.png" /> 
-<img align="left" alt="Eclipse" width="26px" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" />
-<img align="left" alt="Spring" width="26px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" />
-<img align="left" alt="Allure" width="26px" src="https://avatars2.githubusercontent.com/u/5879127?s=280&v=4" /> 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> 
+<img align="left" alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache&logoColor=white"/> 
+<img align="left" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+<img align="left" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 [linkedin]:https://www.linkedin.com/in/luisnunezgomez
 
