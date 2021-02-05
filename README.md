@@ -19,7 +19,7 @@
 <img align="left" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> 
 <img align="left" alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache&logoColor=white"/> 
 <img align="left" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-<img align="left" alt="Netbeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=Apache NetBeans IDE&logoColor=white"/>
+<img align="left" alt="Netbeans" src="https://img.shields.io/badge/Netbeans-1B6AC6?style=for-the-badge&logo=ApacheNetbeansIDE&logoColor=white"/>
 <img align="left" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
