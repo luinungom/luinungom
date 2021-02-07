@@ -17,6 +17,7 @@
 ### 🛠 Languages and Tools:
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="left" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> 
+<img align="left" alt="Maven" src="https://img.shields.io/badge/TestNG-C43B42?style=for-the-badge&logo=TestNG&logoColor=white"/> 
 <img align="left" alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache&logoColor=white"/> 
 <img align="left" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 <img align="left" alt="Netbeans" src="https://img.shields.io/badge/Netbeans-1B6AC6?style=for-the-badge&logo=ApacheNetbeansIDE&logoColor=white"/>
