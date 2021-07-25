@@ -5,7 +5,7 @@
 
 - :robot: I'm currently working as QA automation tester (❤️Selenium)
 - :coffee: I’m a certified OCA Java Programmer
-- :man_technologist: I have created my first application, a DNA restriction sites analysis tool
+- :man_technologist: I have created my first application, a DNA restriction sites analysis tool named Genlogic
 - :snake: I would like to learn Python and JavaScript in a near future
 - :space_invader: I love videogames
 - :microscope: I'm a science geek
