@@ -1,4 +1,4 @@
-### Hi there, I'm Luis Núñez <img alt="wave" width="26px" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif"/>
+### Hi there, I'm Luis Núñez <img alt="wave" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="26px" height="26"/>
 
 ## I'm a QA Tester/automation, mid Java programmer, biologist and biotechnologist
 <img src="https://raw.githubusercontent.com/luinungom/luinungom/master/Selenium.png" align="right" height="200" />
