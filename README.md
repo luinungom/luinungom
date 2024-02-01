@@ -28,5 +28,3 @@
 <br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luinungom)](https://github.com/luinungom/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=luinungom.visitor-badge)
