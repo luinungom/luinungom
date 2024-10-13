@@ -26,3 +26,9 @@
 [linkedin]:https://www.linkedin.com/in/luisnunezgomez
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luinungom&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+<a href="https://www.credly.com/badges/bf068285-467b-4ee2-bd97-9737e1cf41b3/" title="Oracle Certified Associate, Java SE 8 Programmer"><img src="https://github.com/user-attachments/assets/f7ab0442-c513-4837-8a2e-c8be43eed65b" alt="Oracle Certified Associate, Java SE 8 Programmer" width="10%" height="" /></a>
+<a href="https://badgr.com/public/assertions/gqf9Jff4SdaOzVZaLg3Lmg?identity__email=luinungom@gmail.com" title="Postman API Tester"><img src="https://github.com/user-attachments/assets/cb2e2180-97c3-47d3-b252-81bddbbeb4ed" alt="Postman API Tester!" width="10%" height="" /></a>
+<br></br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luinungom.luinungom)
+<a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/luinungom/luinungom?label=profile%20updated&style=flat-square"></a>
