@@ -27,6 +27,7 @@
 <br></br>
 ### 🥇 Certifications:
 <a href="https://www.credly.com/badges/bf068285-467b-4ee2-bd97-9737e1cf41b3/" title="Oracle Certified Associate, Java SE 8 Programmer"><img src="https://github.com/user-attachments/assets/f7ab0442-c513-4837-8a2e-c8be43eed65b" alt="Oracle Certified Associate, Java SE 8 Programmer" width="10%" height="" /></a>
+<a href="https://www.credly.com/badges/4e2f8bc2-0c7b-41f6-a17e-c5462e0d3621" title="Web Development with Python"><img src="https://images.credly.com/size/340x340/images/1fb00135-23d3-42e9-a745-c7627e8a84bf/image.png" alt="Web Development with Python" width="10%" height="" /></a>
 <a href="https://badgr.com/public/assertions/gqf9Jff4SdaOzVZaLg3Lmg?identity__email=luinungom@gmail.com" title="Postman API Tester"><img src="https://github.com/user-attachments/assets/cb2e2180-97c3-47d3-b252-81bddbbeb4ed" alt="Postman API Tester!" width="10%" height="" /></a>
 <a href="https://cert.efset.org/cD4hEk" title="C2 Proficient"><img src="https://github.com/user-attachments/assets/aa71593f-a120-48bd-a8e1-b2f35e20a680" alt="C2 Proficient" width="10%" height="" /></a>
 <br></br>
