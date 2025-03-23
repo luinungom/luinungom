@@ -7,7 +7,9 @@
 - :coffee: I’m a certified OCA Java Programmer
 - 👨‍🚀 I'm a certified Postman API tester
 - :man_technologist: I have created my first application, a [DNA restriction sites analysis tool named Genlogic](https://github.com/luinungom/Genlogic)
-- :snake: I would like to learn Python and JavaScript in a near future
+- 🍅 I have created a small Android app called [Beaufiful Pomodoro](https://github.com/luinungom/beautiful-pomodoro) to learn how to handle separate threads
+- 🐍 I'm learning Python
+- 🟨 I would like to learn JavaScript in a near future
 - :space_invader: I love videogames
 - :microscope: I'm a science geek
 
