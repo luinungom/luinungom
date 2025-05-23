@@ -7,8 +7,8 @@
 - :coffee: I’m a certified OCA Java Programmer
 - 🐍 I'm a certified IBM Web Python developer
 - 👨‍🚀 I'm a certified Postman API tester
-- :man_technologist: I developed my first application, a [DNA restriction sites analysis tool named Genlogic](https://github.com/luinungom/Genlogic)
-- 🍅 I build a small Android app called [Beautiful Pomodoro](https://github.com/luinungom/beautiful-pomodoro) to learn how to handle multithreads
+- :man_technologist: I developed my first application, a DNA restriction sites analysis tool named [Genlogic](https://github.com/luinungom/Genlogic)
+- 🍅 I build a small Android app called [Beautiful Pomodoro](https://github.com/luinungom/beautiful-pomodoro) to learn how to handle threads
 - 🟨 I would like to learn JavaScript in a near future
 - :space_invader: I love videogames
 - :microscope: I'm a science geek
