@@ -5,7 +5,7 @@
 
 - :robot: I'm currently working as QA automation tester (I ❤️ Selenium)
 - :coffee: I’m a certified OCA Java Programmer
-- - 🐍 I'm a certified IBM Python developer
+- 🐍 I'm a certified IBM Python developer
 - 👨‍🚀 I'm a certified Postman API tester
 - :man_technologist: I developed my first application, a [DNA restriction sites analysis tool named Genlogic](https://github.com/luinungom/Genlogic)
 - 🍅 I build a small Android app called [Beautiful Pomodoro](https://github.com/luinungom/beautiful-pomodoro) to learn how to handle threads
