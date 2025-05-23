@@ -1,14 +1,14 @@
 ### Hi there, I'm Luis Núñez <img alt="wave" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="26px" height="26"/>
 
-## I'm a QA Tester/automation, Java programmer, biologist and biotechnologist
+## I'm a QA Tester/automation, Java/Python programmer, biologist and biotechnologist
 <img src="https://raw.githubusercontent.com/luinungom/luinungom/master/Selenium.png" align="right" height="200" />
 
 - :robot: I'm currently working as QA automation tester (I ❤️ Selenium)
 - :coffee: I’m a certified OCA Java Programmer
+- - 🐍 I'm a certified IBM Python developer
 - 👨‍🚀 I'm a certified Postman API tester
 - :man_technologist: I developed my first application, a [DNA restriction sites analysis tool named Genlogic](https://github.com/luinungom/Genlogic)
 - 🍅 I build a small Android app called [Beautiful Pomodoro](https://github.com/luinungom/beautiful-pomodoro) to learn how to handle threads
-- 🐍 I'm learning Python
 - 🟨 I would like to learn JavaScript in a near future
 - :space_invader: I love videogames
 - :microscope: I'm a science geek
