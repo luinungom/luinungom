@@ -1,7 +1,7 @@
 ### Hi there, I'm Luis Núñez <img alt="wave" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="26px" height="26"/>
 
 ## I'm a QA Tester/automation, Java/Python programmer, biologist and biotechnologist
-<img src="https://raw.githubusercontent.com/luinungom/luinungom/master/Selenium.png" align="right" height="200" />
+<img src="https://raw.githubusercontent.com/luinungom/luinungom/master/Selenium.png" align="right" width="300" />
 
 - :robot: I'm currently working as QA automation tester (I ❤️ Selenium)
 - :coffee: I’m a certified OCA Java Programmer
