@@ -36,6 +36,7 @@
 <a href="https://www.credly.com/badges/4b276a38-f6b5-442e-baed-0bc08789ff4f" title="Artificial Intelligence Fundamentals"><img src="https://images.credly.com/size/340x340/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="Artificial Intelligence Fundamentals" width="10%" height="" /></a>
 <a href="https://badgr.com/public/assertions/gqf9Jff4SdaOzVZaLg3Lmg?identity__email=luinungom@gmail.com" title="Postman API Tester"><img src="https://github.com/user-attachments/assets/cb2e2180-97c3-47d3-b252-81bddbbeb4ed" alt="Postman API Tester!" width="10%" height="" /></a>
 <a href="https://cert.efset.org/cD4hEk" title="C2 Proficient"><img src="https://github.com/user-attachments/assets/aa71593f-a120-48bd-a8e1-b2f35e20a680" alt="C2 Proficient" width="10%" height="" /></a>
+<a href="https://www.credly.com/badges/ba5d4dc1-5179-40ab-b0ff-3b56be273255" title="Scrum Foundation Professional Certification"><img src="https://github.com/user-attachments/assets/83caa47e-0a1a-4817-a087-a98c7bfb2197" alt="SFPC" width="10%" height="" /></a>
 <br></br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luinungom.luinungom)
 <a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/luinungom/luinungom?label=profile%20updated&style=flat-square"></a>
