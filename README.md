@@ -9,27 +9,27 @@ I'm a Software Development Engineer in Test with a strong background in test aut
   
 - 👨‍🚀 I'm a certified Postman API tester
   
-- 🤖 Agentic Test Automation — Exploring AI agents to build, improve, and migrate automated tests.
+- 🤖 AI currently work with TypeScript and Playwright, exploring agentic approaches to test automation.
 
 - 🎭 TypeScript & Playwright — My current focus for modern test automation.
 
-- 🥷 Selenium Veteran — Years of experience building and maintaining automation frameworks with Java and Selenium.
+- 🥷 Selenium veteran with years of experience building and maintaining automation frameworks with Java.
 
-- 🧬 Biologist & Biotechnologist — I developed [Genlogic](https://github.com/luinungom/Genlogic), a DNA restriction site analysis tool.
+- 🧬 Biologist & Biotechnologist, I developed [Genlogic](https://github.com/luinungom/Genlogic), a DNA restriction site analysis tool.
 
-- 🍅 Indie Developer — I built [Beautiful Pomodoro](https://github.com/luinungom/beautiful-pomodoro), a small Android app.
+- 🍅 Indie Developer, I built [Beautiful Pomodoro](https://github.com/luinungom/beautiful-pomodoro), a small Android app.
 
-- 🎮 Gamer & Science Geek — Curious about how things work, from biology to software and AI.
+- 🎮 Curious about how things work, from biology to software and AI.
 
 🔭 Currently Exploring
 
-- 🤖 AI Agents & Agentic Workflows — Experimenting with AI-assisted coding and test automation.
+- 🤖 AI Agents & Agentic Workflows, experimenting with AI-assisted coding and test automation.
 
-- 🛠️ Agent Harnesses — Exploring custom skills, tools, and web-enabled coding agents.
+- 🛠️ Agent Harnesses, exploring custom skills, tools, and web-enabled coding agents.
 
-- 🧠 Local LLMs — Running and evaluating local models.
+- 🧠 Local LLMs, running and evaluating local models.
 
-- 🎭 Playwright & TypeScript — Exploring new approaches to test automation with AI agents.
+- 🎭 Playwright & TypeScript, exploring new approaches to test automation with AI agents.
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luisnunezgomez)
