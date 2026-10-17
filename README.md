@@ -1,24 +1,47 @@
-### Hi there, I'm Luis Núñez <img alt="wave" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="26px" height="26"/>
+Hi there, I'm Luis Núñez 👋
 
-## I'm a QA Tester/automation, Java/Python programmer, biologist and biotechnologist
-<img src="https://raw.githubusercontent.com/luinungom/luinungom/master/Selenium.png" align="right" width="300" />
+## SDET | Test Automation Engineer | Local AI Enthusiast
 
-- :robot: I'm currently working as QA automation tester (I ❤️ Selenium)
+I'm a Software Development Engineer in Test with a strong background in test automation, a passion for engineering, and a scientific mindset shaped by my background in biology and biotechnology.
 - :coffee: I’m a certified OCA Java Programmer
+  
 - 🐍 I'm a certified IBM Python Web developer
+  
 - 👨‍🚀 I'm a certified Postman API tester
-- :man_technologist: I developed my first application, a DNA restriction sites analysis tool named [Genlogic](https://github.com/luinungom/Genlogic)
-- 🍅 I build a small Android app called [Beautiful Pomodoro](https://github.com/luinungom/beautiful-pomodoro) to learn how to handle threads
-- 🟨 I would like to learn JavaScript in a near future
-- :space_invader: I love videogames
-- :microscope: I'm a science geek
+  
+- 🤖 Agentic Test Automation — Exploring AI agents to build, improve, and migrate automated tests.
+
+- 🎭 TypeScript & Playwright — My current focus for modern test automation.
+
+- 🥷 Selenium Veteran — Years of experience building and maintaining automation frameworks with Java and Selenium.
+
+- 🧬 Biologist & Biotechnologist — I developed [Genlogic](https://github.com/luinungom/Genlogic), a DNA restriction site analysis tool.
+
+- 🍅 Indie Developer — I built [Beautiful Pomodoro](https://github.com/luinungom/beautiful-pomodoro), a small Android app.
+
+- 🎮 Gamer & Science Geek — Curious about how things work, from biology to software and AI.
+
+🔭 Currently Exploring
+
+- 🤖 AI Agents & Agentic Workflows — Experimenting with AI-assisted coding and test automation.
+
+- 🛠️ Agent Harnesses — Exploring custom skills, tools, and web-enabled coding agents.
+
+- 🧠 Local LLMs — Running and evaluating local models.
+
+- 🎭 Playwright & TypeScript — Exploring new approaches to test automation with AI agents.
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/luisnunezgomez)
 <br></br>
 ### 🛠 Languages and Tools:
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?logo=lmstudio&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
