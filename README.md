@@ -11,8 +11,6 @@ I'm a Software Development Engineer in Test with a strong background in test aut
   
 - 🤖 AI currently work with TypeScript and Playwright, exploring agentic approaches to test automation.
 
-- 🎭 TypeScript & Playwright — My current focus for modern test automation.
-
 - 🥷 Selenium veteran with years of experience building and maintaining automation frameworks with Java.
 
 - 🧬 Biologist & Biotechnologist, I developed [Genlogic](https://github.com/luinungom/Genlogic), a DNA restriction site analysis tool.
